@@ -1,0 +1,6 @@
+{
+  "name": "SmartPay - Smart Payment Recommendation",
+  "description": "A client-side demo dashboard that compares estimated payment fees, GST and cashback across popular payment apps.",
+  "requestFramePermissions": []
+}
+
