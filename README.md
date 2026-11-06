@@ -1,5 +1,7 @@
 # SmartPay — Payment Fee Comparison Dashboard
 
+[**Open the live demo**](https://akhil-2005-hub.github.io/smartpay-payment-recommendation/)
+
 SmartPay is a responsive frontend demo for comparing estimated payment fees, GST, cashback, and net payable amounts across popular Indian payment apps. It includes comparison views for mobile recharge, electricity, DTH, and credit card bills, plus sample transaction and analytics screens.
 
 > **Demo data:** Fee rules, promotions, provider ratings, success rates, plans, and sample bill lookups are illustrative data coded into the app. They are not live offers, official provider quotes, or financial advice. Confirm current charges with the payment provider before paying.
